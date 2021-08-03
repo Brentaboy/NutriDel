@@ -1,2 +1,2 @@
-web: gunicorn app:app
-web: gunicorn run:my_awesome_app
+web: gunicorn app:nutri-del-2
+web: gunicorn run:nutri-del-2
